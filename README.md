@@ -27,7 +27,7 @@ If you want to join the chain, you have to open a channel to the node on top of 
 
 ### Comparison to Rings of Fire
 Think of a Ring of Fire that never closes. A Ring of Fire that grows forever. Infinitely.  
-**Advantage**: Less overhead. Much faster setup. Very little communication needed from your part.
+**Advantage**: Less overhead. Much faster setup. Very little communication needed from your part.  
 **Disadvantage**: No rebalancing.
 
 ### PR template:
