@@ -30,6 +30,8 @@ Think of a Ring of Fire that never closes. A Ring of Fire that grows forever. In
 **Advantage**: Less overhead. Much faster setup. Very little communication needed from your part.  
 **Disadvantage**: No rebalancing.
 
+Additionally, there is the privacy benefit of not needing to link your Telegram account to your LN node. It's much easier to create anonymous GitHub accounts than Telegram accounts, because of the phone number verification.
+
 ### PR template:
 ```
 Property | Value
