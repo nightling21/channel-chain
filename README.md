@@ -9,7 +9,7 @@ If you want to join the chain, you have to open a channel to the node on top of 
 
 ### Procedure
 1) Wait until your predecessor has it's channel confirmed.
-2) Request to put your node on top of the list by submitting a PR. If you don't manage to create a PR, seek help from the [Telegram group](https://t.me/channel-chain).
+2) Request to put your node on top of the list by submitting a PR. If you don't manage to create a PR, seek help from the [Telegram group](https://t.me/channel_chain).
 3) Once the PR is merged, open a channel with (at least) the defined amount to the node below you.
 4) After the channel is confirmed, create a PR with a Link to the created channel (on [1ml.com](https://1ml.com))
 5) Leave the channel open.
