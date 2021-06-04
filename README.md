@@ -1,4 +1,5 @@
 # channel-chain
+Original and main repository: https://github.com/nightling21/channel-chain . PRs must be submitted here, they are disregarded when submitted to forks of this repository!  
 Inspired by the Telegram group [Rings of Fire](https://t.me/joinchat/Uao0Z_hBequXkeB0) and the [LNTrustChain](https://www.takethetorch.online/).
 
 ### Purpose
