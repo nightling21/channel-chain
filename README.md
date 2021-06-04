@@ -22,7 +22,7 @@ If you want to join the chain, you have to open a channel to the node on top of 
 5) Don't open channels until you are confirmed on the list.
 6) If your channel doesn't open within 6 hours, you may be kicked out of the chain, so someone else can take your spot.
 7) You can join a channel-chain multiple times.
-8) Don't open channels to nodes you are already connected with. Those channels will be ignored and someone else will take your spot.
+8) Don't open channels to nodes you are already connected with. Those channels will be ignored and someone else will take your spot. (Remember that c-lightning nodes don't even have the possibility to have multiple channels with one node)
 9) If you don't play fair (e.g. closing your channel quickly after you got your inbound capacity), you will be blocked from further participation.
 
 ### Comparison to Rings of Fire
