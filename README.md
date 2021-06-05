@@ -45,3 +45,6 @@ Channel | <LEAVE THIS EMPTY FOR THE REQUES, ADD CHANNEL LINK HERE AFTER OPENING 
 
 ```
 (newline at the end is necessary)
+
+### Community
+Meet us in the Telegram group [channel-chain](https://t.me/channel_chain)
